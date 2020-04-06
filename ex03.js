@@ -1,3 +1,5 @@
+/* null과 undefined */
+
 var myVar1;
 var myVar2 = null;
 
